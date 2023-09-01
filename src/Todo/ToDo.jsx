@@ -11,6 +11,7 @@ export default function ToDo() {
         setLista([...lista,{
             atividade: atividade
         }])
+        
     }
 
     return (
